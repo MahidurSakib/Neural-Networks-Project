@@ -1,0 +1,7 @@
+torch>=2.2
+torchvision>=0.17
+numpy>=1.24
+scikit-learn>=1.3
+tqdm>=4.66
+# Optional but recommended for FID/IS:
+torch-fidelity>=0.3.0
